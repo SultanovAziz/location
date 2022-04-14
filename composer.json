@@ -1,0 +1,16 @@
+{
+    "description": "Test project",
+    "autoload": {
+        "psr-4": {
+            "Objects\\" : "objects",
+            "Api\\" : "api"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aziz",
+            "email": "aziz89131983189@gmail.com"
+        }
+    ],
+    "require": {}
+}
